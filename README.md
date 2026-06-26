@@ -1,1 +1,10 @@
-<p align="center"> <image src="https://files.catbox.moe/rh57sx.png" <p width="520"> </div> <p align="center"> <a href="https://www.google.com/?zx=1782511301247"> <image src="https://github.com/user-attachments/assets/f3993d1a-c356-4ff4-8d38-0453e85ae4af" <p width="100"> </div> <p align="center"> <image src="https://github.com/user-attachments/assets/c91a3078-29bd-4753-b259-e28281fecd7d" <p width="30"> </div> <p align="center"> <image src="https://github.com/user-attachments/assets/ed6050de-caf8-4827-afab-7335f9ba7e68" <p width="320"> </div> <p align="center"> <image src="https://github.com/user-attachments/assets/36165dec-74cb-480b-a147-77e0ff38480f" <p width="520"> </div>
+<p align="center"> <image src="https://files.catbox.moe/rh57sx.png" <p width="520"> 
+</div> 
+<p align="center"> <a href="https://www.google.com/?zx=1782511301247"> <image src="https://files.catbox.moe/u6mfbb.png" <p width="100"> 
+</div> 
+<p align="center"> <image src="https://files.catbox.moe/5cxim0.png" <p width="30"> 
+</div> 
+<p align="center"> <image src="https://files.catbox.moe/8d8rxe.png" <p width="320">
+</div> 
+<p align="center"> <image src="https://files.catbox.moe/xdx64t.png" <p width="520"> 
+</div>
