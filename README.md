@@ -1,8 +1,6 @@
-<p align="center"> <image src="https://files.catbox.moe/5cxim0.png" <p width="30"> 
-</div> 
 <p align="center"> <image src="https://files.catbox.moe/rh57sx.png" <p width="520"> 
 </div> 
-<p align="center"> <a href="https://github.com/noontiide"> <image src="https://files.catbox.moe/u6mfbb.png" <p width="120"> 
+<p align="center"> <a href="https://github.com/noontiide"> <image src="https://files.catbox.moe/u6mfbb.png" <p width="120"> <image src="https://files.catbox.moe/5cxim0.png" <p width="30"> 
 <p align="center">
 <sub>rentry not made yet.</sub>
 </div> 
